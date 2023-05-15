@@ -1,0 +1,25 @@
+body{
+   background-color: rgb(132, 132, 185);
+}
+
+.timer_button{
+    background-color:rgb(249, 246, 246) ;
+    color:rgb(132, 132, 185);
+    font-family:monospace;
+    border-radius: 25px;
+    font-size: 20px;
+}
+
+.form-field{
+    float:right;
+}
+
+.display__time-left{
+    color: white;
+    text-align:center;
+}
+
+.display__end-time{
+    color:white;
+    text-align: center;
+}
